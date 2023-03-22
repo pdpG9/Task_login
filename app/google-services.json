@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318187654382",
+    "project_id": "task-for-gita",
+    "storage_bucket": "task-for-gita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318187654382:android:9a1aa446692aa932d4b7ff",
+        "android_client_info": {
+          "package_name": "com.example.task_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318187654382-fms3nf9kiuomkojpkgr4dvkraokerjbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg8-zz9FtmFnxJz-I7hpx7ghLuN_15RbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318187654382-fms3nf9kiuomkojpkgr4dvkraokerjbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
